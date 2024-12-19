@@ -1079,6 +1079,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 848257300bbf55243bc4084fc467f3e2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  columnPoolSize: 5
+  columnPrefab: {fileID: 4981333359131058546, guid: 33aefc3e3f383fa40b1f14bbb973f921, type: 3}
+  spawnRate: 4
+  columnMin: -2
+  columnMax: 2
 --- !u!1 &1905368765
 GameObject:
   m_ObjectHideFlags: 0
